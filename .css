@@ -1,0 +1,32 @@
+/* form{
+  display:flex;
+  align-content: center;
+   padding:10px;
+   flex-flow: column wrap;
+   border:1px solid white;
+   margin:50px;
+}
+
+input{
+    margin:2px;
+    background-color:darkturquoise;
+    padding:5px;
+    padding-left:10px;
+    border-radius: 5px;
+    
+}
+#s {
+ box-shadow: 4px 5px plum;
+}
+div{
+    text-align: center;
+    margin-bottom:20px;
+    font-size: 20px;
+}
+select{
+    margin:2px;
+    background-color:darkturquoise;
+    padding:5px;
+    padding-left:10px;
+    border-radius: 5px;  
+} */
